@@ -1,7 +1,8 @@
+
 {
   "expo": {
-    "name": "final-assessment",
-    "slug": "final-assessment",
+    "name": "MuniFix SA",
+    "slug": "munifix-sa",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -10,6 +11,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.uj.munifix",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/android-icon-foreground.png",
